@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing coffee sales data — built with Pivot 
 
 ## 📊 Dashboard Preview
 
-![Coffee Sales Dashboard](screenshots/dashboard-overview.jpg)
+![![Coffee Sales Dashboard](dashboard-overview.jpg))
 
 ## 🎯 Project Overview
 
